@@ -16,3 +16,7 @@ body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial
 @media (min-width: 800px) { .grid-2 { grid-template-columns: 1fr 1fr; } }
 .footer { border-top: 1px solid #eee; color: #555; }
 .footer .container { padding: 1rem; font-size: .9rem; }
+.card p {
+  text-align: justify;
+}
+
